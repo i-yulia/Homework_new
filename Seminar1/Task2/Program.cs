@@ -7,5 +7,5 @@ int numberB = int.Parse(Console.ReadLine());
 int max = numberA;
 if (numberA < numberB)
     max = numberB;
-Console.Write($"Масимальное число = {max}");
+Console.Write($"Максимальное число = {max}");
   
